@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Калькулятор - сложение целых чисел</title>
+<title>Калькулятор - сложение целых чисел!</title>
 </head>
 <body>
-<h1>Калькулятор - сложение целых чисел</h1>>
+<h1>Калькулятор - сложение целых чисел!</h1>>
     <form action="${pageContext.request.contextPath}/JavaCalc" method="post">
         <label for="first">Первое слагаемое:</label>
         <input type="text" name="first" id="first" value="${first}">

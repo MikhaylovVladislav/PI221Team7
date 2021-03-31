@@ -13,7 +13,7 @@
 
 
 
-<body bgcolor="#008080">
+<body style="background-image:url(https://i.pinimg.com/originals/2e/28/cf/2e28cf7b4c45b674b2cc44c8a36a8415.jpg)">
 <h1>Калькулятор - нахождение площади равностороннего треугольника!</h1>
     <form action="${pageContext.request.contextPath}/JavaCalc" method="post">
         <label for="first">Введите сторону равностороннего треугольника :</label>

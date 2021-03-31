@@ -15,11 +15,11 @@
    }
   </style>
 </head>
-
+	
 <body>
-<h1>Калькулятор - нахождение площади равностороннего треугольника!</h1>
+<h1 style="color:#FFFF00" >Калькулятор - нахождение площади равностороннего треугольника!</h1>
     <form action="${pageContext.request.contextPath}/JavaCalc" method="post">
-        <label for="first" style="color:#FFA500" >Введите сторону равностороннего треугольника :</label>
+        <label for="first" style="color:#FF0000" >Введите сторону равностороннего треугольника :</label>
         <input type="text" name="first" id="first" value="${first}">
         <input type="submit" name="sign" value="Вычислить">
     </form>
@@ -30,7 +30,7 @@
     <p align="right" style="color:#FFA500"><b>3)Bogolubov Max<b></p>
     <p align="right" style="color:#FFA500"><b>4)Belousov Artem<b></p>
     
-    <p>Формула, которая используются при вычислении площади</p>
+    <p style="color:#FFFF00">Формула, которая используются при вычислении площади</p>
     <img src="https://www.ok-t.ru/studopediaru/baza7/3626748201704.files/image016.jpg" align="middle" alt="Площадь равна:(a*a*sqrt(3))/4" width="400 height="400" />
     
     

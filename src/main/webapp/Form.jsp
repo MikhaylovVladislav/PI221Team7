@@ -5,12 +5,15 @@
 <head>
 <meta charset="UTF-8">
 <title>Калькулятор - нахождение площади равностороннего треугольника!</title>
-<style type="text/css">
-body {
-background-image:url(https://i.pinimg.com/originals/2e/28/cf/2e28cf7b4c45b674b2cc44c8a36a8415.jpg);
-background-repeat:no-repeat
-}
-</style>
+<style>
+   body {
+    background: url(https://avatanplus.com/files/resources/original/5a252d46154271602138d9c7.jpg) no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+   }
+  </style>
 </head>
 
 <body>

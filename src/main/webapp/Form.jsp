@@ -13,7 +13,7 @@
 
 
 
-<body bgcolor="#008080">
+<body>
 <h1>Калькулятор - нахождение площади равностороннего треугольника!</h1>
     <form action="${pageContext.request.contextPath}/JavaCalc" method="post">
         <label for="first">Введите сторону равностороннего треугольника :</label>
@@ -28,7 +28,7 @@
     <p align="right" style="color:#FFA500"><b>3)Bogolubov Max<b></p>
     <p align="right" style="color:#FFA500"><b>4)Belousov Artem<b></p>
     
-    <img src="https://www.meme-arsenal.com/memes/b2db28e8d8382ef65247befd109259a4.jpg alt="Альтернативный текст" width="100" height="80" />
+    <img src="https://www.meme-arsenal.com/memes/b2db28e8d8382ef65247befd109259a4.jpg alt="Альтернативный текст" width="150" height="150" />
     
     
     

@@ -11,7 +11,7 @@
     -moz-background-size: 100%; /* Firefox 3.6+ */
     -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
     -o-background-size: 100%; /* Opera 9.6+ */
-    background-size: 120%; /* Современные браузеры */
+    background-size: 100%; /* Современные браузеры */
    }
   </style>
 </head>
@@ -30,9 +30,9 @@
     <p align="right" style="color:#FFA500"><b>3)Bogolubov Max<b></p>
     <p align="right" style="color:#FFA500"><b>4)Belousov Artem<b></p>
     
-    
-    <img src="https://www.meme-arsenal.com/memes/b2db28e8d8382ef65247befd109259a4.jpg" alt="Альтернативный текст" width="300 height="300" />
     <p>Формула, которая используются при вычислении площади</p>
+    <img src="https://www.ok-t.ru/studopediaru/baza7/3626748201704.files/image016.jpg" alt="Альтернативный текст" width="300 height="300" />
+    
     
     
     

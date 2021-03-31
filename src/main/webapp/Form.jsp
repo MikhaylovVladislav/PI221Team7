@@ -8,10 +8,10 @@
 <style>
    body {
     background: url(https://regnum.ru/uploads/pictures/news/2016/12/10/regnum_picture_14813574061495217_normal.jpg) no-repeat;
-    -moz-background-size: 115%; /* Firefox 3.6+ */
-    -webkit-background-size: 115%; /* Safari 3.1+ и Chrome 4.0+ */
-    -o-background-size: 115%; /* Opera 9.6+ */
-    background-size: 115%; /* Современные браузеры */
+    -moz-background-size: 120%; /* Firefox 3.6+ */
+    -webkit-background-size: 120%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 120%; /* Opera 9.6+ */
+    background-size: 120%; /* Современные браузеры */
    }
   </style>
 </head>
@@ -19,7 +19,7 @@
 <body>
 <h1>Калькулятор - нахождение площади равностороннего треугольника!</h1>
     <form action="${pageContext.request.contextPath}/JavaCalc" method="post">
-        <label for="first" >Введите сторону равностороннего треугольника :</label>
+        <label for="first" style="color:#FFA500" >Введите сторону равностороннего треугольника :</label>
         <input type="text" name="first" id="first" value="${first}">
         <input type="submit" name="sign" value="Вычислить">
     </form>

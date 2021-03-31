@@ -21,6 +21,15 @@
         <input type="submit" name="sign" value="Вычислить">
     </form>
     <p align="right" style="color:#ffff00"><i>Made by Team7:</i></p>
-    <p align="right" style="color:#2F4F4F>1)Mikhaylov Vladislav</br><br>2)Takhaev Arseniy</br><br>3)Bogolubov Max</br><br>1)Belousov Artem</br></p>
+    <!--  align="right" style="color:#2F4F4F">1)Mikhaylov Vladislav<br>2)Takhaev Arseniy</br><br>3)Bogolubov Max</br><br>1)Belousov Artem</br></p>-->
+    
+    <p align="right">1)Mikhaylov Vladislav</p>
+    <p align="right">1)Mikhaylov Vladislav</p>
+    <p align="right">1)Mikhaylov Vladislav</p>
+    <p align="right">1)Mikhaylov Vladislav</p>
+    
+    
+    
+    
     </body>
 </html>

@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Калькулятор - сложение целыхчвывыф чисел!</title>
+<title>Калькулятор - нахождение площади равностороннего треугольника!</title>
 </head>
 <body>
-<h1>Калькулятор - сложение целых чисел!</h1>>
+<h1>Калькулятор - нахождение площади равностороннего треугольника!</h1>>
     <form action="${pageContext.request.contextPath}/JavaCalc" method="post">
-        <label for="first">Первое слагаемоеуккцукцук:</label>
+        <label for="first">Введите сторону равностороннего треугольника:</label>
         <input type="text" name="first" id="first" value="${first}">
         <label for="second">Второе слагаемоекуцкцукцукцуадаваыва: </label>
         <input type="text" name="second" id="second" value="${second}">

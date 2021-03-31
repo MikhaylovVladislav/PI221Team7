@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet(name="Calc", urlPatterns="/JavaCalc") //���������� �������� � URL
+@WebServlet(name="Calc", urlPatterns="/JavaCalc") //���������� �������� � URL
 public class Calc extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
@@ -49,7 +49,7 @@ public class Calc extends HttpServlet {
 				second_try=0;	
 			}
 			
-			result=first_try+second_try;
+			result=first_try*first_try;//Макс\Артем здесь нужно убрать второе число,т.к. нам нужна только 1 переменная(сторона), и затем по формуле S = (a*a*корень из 3)/4
 			request.setAttribute("result", result);
 		}
 		

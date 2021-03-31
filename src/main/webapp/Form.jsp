@@ -8,7 +8,7 @@
 <style type="text/css">
 body {
 background-image:url(https://i.pinimg.com/originals/2e/28/cf/2e28cf7b4c45b674b2cc44c8a36a8415.jpg);
-background-repeat:no-repeat
+background-repeat:repeat-y
 }
 </style>
 </head>

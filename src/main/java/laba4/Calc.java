@@ -21,12 +21,12 @@ public class Calc extends HttpServlet {
 	
 	private static class RequestCalc {
 		private final String first_calc;
-		private final String second_calc;
-		private int result;
+
+		private double result;
 						
 		private RequestCalc (String first, String second) {
 			this.first_calc = first;
-			this.second_calc = second;
+
 			}
 		
 		public static RequestCalc fromRequestParameters(HttpServletRequest request) {
@@ -37,19 +37,20 @@ public class Calc extends HttpServlet {
 				
 		public void setAsRequestAttributesAndCalculate(HttpServletRequest request) {
 			request.setAttribute("first_result", first_calc);
-			request.setAttribute("second_result", second_calc);
-			int first_try;
-			int second_try;
+
+			float first_try;
+
 			try { 
-			first_try=Integer.parseInt(first_calc);
-			second_try=Integer.parseInt(second_calc);
+			first_try=Float.parseFloat(first_calc);
+
 			}
 			catch (NumberFormatException e) {
 				first_try=0;
-				second_try=0;	
+	
 			}
 			
-			result=first_try*first_try;//Макс\Артем здесь нужно убрать второе число,т.к. нам нужна только 1 переменная(сторона), и затем по формуле S = (a*a*корень из 3)/4
+			result=Math.pow(first_try,2)*(Math.sqrt(3))/4;
+			request.setAttribute("result", result);;//Макс\Артем здесь нужно убрать второе число,т.к. нам нужна только 1 переменная(сторона), и затем по формуле S = (a*a*корень из 3)/4
 			request.setAttribute("result", result);
 		}
 		

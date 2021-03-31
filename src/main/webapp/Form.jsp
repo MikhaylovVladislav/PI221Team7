@@ -18,8 +18,8 @@
     <form action="${pageContext.request.contextPath}/JavaCalc" method="post">
         <label for="first">Введите сторону равностороннего треугольника :</label>
         <input type="text" name="first" id="first" value="${first}">
-        <input type="submit" name="sign" value="Calculate">
+        <input type="submit" name="sign" value="Вычислить">
     </form>
-    <p><i>Данный калькулятор разработала команда номер7</i></p>
+    <p align="right"><i>Данный калькулятор разработала команда номер7</i></p>
     </body>
 </html>

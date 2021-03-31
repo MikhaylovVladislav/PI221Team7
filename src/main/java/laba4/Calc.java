@@ -50,7 +50,7 @@ public class Calc extends HttpServlet {
 			}
 			
 			result=Math.pow(first_try,2)*(Math.sqrt(3))/4;
-			request.setAttribute("result", result);;//Макс\Артем здесь нужно убрать второе число,т.к. нам нужна только 1 переменная(сторона), и затем по формуле S = (a*a*корень из 3)/4
+			request.setAttribute("result", result);;
 			request.setAttribute("result", result);
 		}
 		

@@ -23,10 +23,12 @@
     <p align="right" style="color:#ffff00"><i>Made by Team7:</i></p>
     <!--  align="right" style="color:#2F4F4F">1)Mikhaylov Vladislav<br>2)Takhaev Arseniy</br><br>3)Bogolubov Max</br><br>1)Belousov Artem</br></p>-->
     
-    <p align="right" style="color:#FFA500">1)Mikhaylov Vladislav</p>
-    <p align="right" style="color:#FFA500">1)Takhaev Arseniy</p>
-    <p align="right" style="color:#FFA500">1)Bogolubov Max</p>
-    <p align="right" style="color:#FFA500">1)Belousov Artem</p>
+    <p align="right" style="color:#FFA500"><b>1)Mikhaylov Vladislav</b></p>
+    <p align="right" style="color:#FFA500"><b>2)Takhaev Arseniy<b></p>
+    <p align="right" style="color:#FFA500"><b>3)Bogolubov Max<b></p>
+    <p align="right" style="color:#FFA500"><b>4)Belousov Artem<b></p>
+    
+    <img src="jCFZIJzOn_w.jpg" alt="Альтернативный текст" width="100" height="80" />
     
     
     

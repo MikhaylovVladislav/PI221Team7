@@ -7,7 +7,7 @@
 <title>Калькулятор - нахождение площади равностороннего треугольника!</title>
 </head>
 
-<body background="/home/takhaev/12.jpg">
+<body background="https://www.dhresource.com/0x0/f2/albu/g8/M00/02/F7/rBVaVFzT9ASAJuD8AABlov8cFWg619.jpg">
 <h1>Калькулятор - нахождение площади равностороннего треугольника!</h1>
     <form action="${pageContext.request.contextPath}/JavaCalc" method="post">
         <label for="first">Введите сторону равностороннего треугольника :</label>

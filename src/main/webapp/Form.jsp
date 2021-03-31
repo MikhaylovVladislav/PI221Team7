@@ -11,7 +11,7 @@
     -moz-background-size: 100%; /* Firefox 3.6+ */
     -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
     -o-background-size: 100%; /* Opera 9.6+ */
-    background-size: 100%; /* Современные браузеры */
+    background-size: 120%; /* Современные браузеры */
    }
   </style>
 </head>
@@ -24,8 +24,7 @@
         <input type="submit" name="sign" value="Вычислить">
     </form>
     <p align="right" style="color:#ffff00"><i>Made by Team7:</i></p>
-    <!--  align="right" style="color:#2F4F4F">1)Mikhaylov Vladislav<br>2)Takhaev Arseniy</br><br>3)Bogolubov Max</br><br>1)Belousov Artem</br></p>-->
-    
+
     <p align="right" style="color:#FFA500"><b>1)Mikhaylov Vladislav</b></p>
     <p align="right" style="color:#FFA500"><b>2)Takhaev Arseniy<b></p>
     <p align="right" style="color:#FFA500"><b>3)Bogolubov Max<b></p>

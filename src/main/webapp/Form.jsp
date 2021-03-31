@@ -20,6 +20,6 @@
         <input type="text" name="first" id="first" value="${first}">
         <input type="submit" name="sign" value="Вычислить">
     </form>
-    <p align="right"><i>Made by Team7<br>1)MichailovV</br></i></p>
+    <p align="right"><i>Made by Team7<br>1)Michailov Vladislav</br><br>2)Takhaev Arseny</br><br>3)Bogolubov Max</br><br>1)Belousov Artem</br></i></p>
     </body>
 </html>

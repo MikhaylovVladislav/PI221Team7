@@ -9,7 +9,7 @@
 
 <style>
     body{
-         background: url(12.jpg) no-repeat;
+         background: url(/home/takhaev/12.jpg) no-repeat;
          -moz-background-size: 100%
          -webkit-background-size: 100%
          -o-background-size: 100%

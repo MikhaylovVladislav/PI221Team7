@@ -10,10 +10,10 @@
 <style>
     body{
          background: url(https://www.dhresource.com/0x0/f2/albu/g8/M00/02/F7/rBVaVFzT9ASAJuD8AABlov8cFWg619.jpg) no-repeat;
-         -moz-background-size: 100%
-         -webkit-background-size: 100%
-         -o-background-size: 200%
-         background-size: 100%
+         -moz-background-size: 300%
+         -webkit-background-size: 300%
+         -o-background-size: 300%
+         background-size: 300%
         }
   </style>
 

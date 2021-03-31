@@ -6,10 +6,10 @@
 <meta charset="UTF-8">
 <title>Калькулятор - нахождение площади равностороннего треугольника!</title>
 </head>
-<body bgcolor="#c0c0c0">
+<body background="/home/takhaev/itachi">
 <h1>Калькулятор - нахождение площади равностороннего треугольника!</h1>>
     <form action="${pageContext.request.contextPath}/JavaCalc" method="post">
-        <label for="first">Введите сторону равностороннего треугольника:</label>
+        <label for="first">Введите сторону равностороннего треугольника :</label>
         <input type="text" name="first" id="first" value="${first}">
         <input type="submit" name="sign" value="Calculate">
     </form>

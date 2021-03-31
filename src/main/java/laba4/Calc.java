@@ -46,14 +46,17 @@ public class Calc extends HttpServlet {
 			}
 			catch (NumberFormatException e) {
 				first_try=0;
-	System.out.println("ERROR");
+	
 			}
 			if (first_try<=0) {
-				result=0;} else {
+				String s="ERROR";
+				request.setAttribute("result", s);;
+				request.setAttribute("result", s);
+				} else {
 			result=Math.pow(first_try,2)*(Math.sqrt(3))/4;
-				}
 			request.setAttribute("result", result);;
 			request.setAttribute("result", result);
+				}
 		
 		}
 	}

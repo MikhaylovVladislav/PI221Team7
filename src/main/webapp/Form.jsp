@@ -7,10 +7,10 @@
 <title>Калькулятор - нахождение площади равностороннего треугольника!</title>
 <style type="text/css">
    div {
-    height: 200px; /* Высота блока */
-    width: 200px; /* Ширина блока */
+    height: 500x; /* Высота блока */
+    width: 709px; /* Ширина блока */
     overflow: auto; /* Добавляем полосы прокрутки */
-    padding-left: 15px; /* Отступ от текста слева */
+    padding-left: 13px; /* Отступ от текста слева */
     background: url(https://www.dhresource.com/0x0/f2/albu/g8/M00/02/F7/rBVaVFzT9ASAJuD8AABlov8cFWg619.jpg") repeat-y #fc0; /* Цвет фона, 
                                                     путь к фоновому изображению и 
                                                     повторение фона по вертикали */

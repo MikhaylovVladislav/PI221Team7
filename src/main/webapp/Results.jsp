@@ -6,7 +6,11 @@
 <meta charset="UTF-8">
 <title>Результат</title>
 </head>
-<body>
+
+
+
+
+<body bgcolor="	#4169E1">
 <h1>Полученная площадь</h1>
 <h2>Ваши введеные данные:</h2>
 <p><strong>Первое слагаемое:</strong> ${first_result}</p>

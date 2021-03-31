@@ -4,14 +4,14 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Калькулятор - сложение целых чисел!</title>
+<title>Калькулятор - сложение целыхчвывыф чисел!</title>
 </head>
 <body>
 <h1>Калькулятор - сложение целых чисел!</h1>>
     <form action="${pageContext.request.contextPath}/JavaCalc" method="post">
-        <label for="first">Первое слагаемое:</label>
+        <label for="first">Первое слагаемоеуккцукцук:</label>
         <input type="text" name="first" id="first" value="${first}">
-        <label for="second">Второе слагаемое: </label>
+        <label for="second">Второе слагаемоекуцкцукцукцу: </label>
         <input type="text" name="second" id="second" value="${second}">
         <input type="submit" name="sign" value="Calculate">
     </form>

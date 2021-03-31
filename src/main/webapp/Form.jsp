@@ -7,7 +7,7 @@
 <title>Калькулятор - нахождение площади равностороннего треугольника!</title>
 <style>
    body {
-    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Wea00816.jpg/1200px-Wea00816.jpg) no-repeat;
+    background: url(https://regnum.ru/uploads/pictures/news/2016/12/10/regnum_picture_14813574061495217_normal.jpg) no-repeat;
     -moz-background-size: 100%; /* Firefox 3.6+ */
     -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
     -o-background-size: 100%; /* Opera 9.6+ */

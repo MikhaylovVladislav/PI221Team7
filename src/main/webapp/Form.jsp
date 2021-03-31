@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>Калькулятор - нахождение площади равностороннего треугольника!</title>
 </head>
-<body>
+<body bgcolor="#c0c0c0">
 <h1>Калькулятор - нахождение площади равностороннего треугольника!</h1>>
     <form action="${pageContext.request.contextPath}/JavaCalc" method="post">
         <label for="first">Введите сторону равностороннего треугольника:</label>

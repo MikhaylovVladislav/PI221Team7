@@ -19,10 +19,10 @@
 
 
 <body>
-<h1>Полученная площадь</h1>
-<h2>Ваши введеные данные:</h2>
-<p><strong>Первое слагаемое:</strong> ${first_result}</p>
-<p><strong>Результат:</strong> ${result}</p>
+<h1 style="color:#FFA500">Полученная площадь</h1>
+<h2 style="color:#FFA500">Ваши введеные данные:</h2>
+<p style="color:#FFA500"><strong>Первое слагаемое:</strong> ${first_result}</p>
+<p style="color:#FFA500"><strong>Результат:</strong> ${result}</p>
 
 <form action="${pageContext.request.contextPath}/Form.jsp">
     <input type="submit" name="sign" value="Назад">

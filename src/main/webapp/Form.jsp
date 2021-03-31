@@ -11,8 +11,7 @@
     <form action="${pageContext.request.contextPath}/JavaCalc" method="post">
         <label for="first">Введите сторону равностороннего треугольника:</label>
         <input type="text" name="first" id="first" value="${first}">
-        <label for="second">Второе слагаемоекуцкцукцукцуадаваыва: </label>
-        <input type="text" name="second" id="second" value="${second}">
+        
         <input type="submit" name="sign" value="Calculate">
     </form>
     </body>

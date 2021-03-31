@@ -28,7 +28,7 @@
     <p align="right" style="color:#FFA500"><b>3)Bogolubov Max<b></p>
     <p align="right" style="color:#FFA500"><b>4)Belousov Artem<b></p>
     
-    <img src="~/home/takhaev/Work/jCFZIJZ0n_w.jpg" alt="Альтернативный текст" width="100" height="80" />
+    <img src="~/Work/1.jpg" alt="Альтернативный текст" width="100" height="80" />
     
     
     

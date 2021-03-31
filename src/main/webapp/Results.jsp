@@ -5,12 +5,20 @@
 <head>
 <meta charset="UTF-8">
 <title>Результат</title>
+<style>
+   body {
+    background: url(https://mirgif.com/KARTINKI/ogon/ogon-2.jpg) no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+   }
+  </style>
 </head>
 
 
 
-
-<body bgcolor="	#4169E1">
+<body>
 <h1>Полученная площадь</h1>
 <h2>Ваши введеные данные:</h2>
 <p><strong>Первое слагаемое:</strong> ${first_result}</p>

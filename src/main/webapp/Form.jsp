@@ -8,10 +8,10 @@
 
 </head>
 	
-<body bgcolor="#32CD32">
+<body bgcolor="#4682B4">
 <h1 style="color:#FFFF00" >Калькулятор - нахождение площади равностороннего треугольника!</h1>
     <form action="${pageContext.request.contextPath}/JavaCalc" method="post">
-        <label for="first" style="color:#FFFF00" >Введите сторону равностороннего треугольника а:</label>
+        <label for="first" style="color:#FFFF00" >Введите сторону равностороннего треугольника а в миллиметрах:</label>
         <input type="text" name="first" id="first" value="${first}">
         <input type="submit" name="sign" value="Вычислить">
     </form>
@@ -25,7 +25,7 @@
     <p style="color:#FFFF00">Формула, которая используются при вычислении площади:</p>
     
     
-    
+    <img src="https://www.ok-t.ru/studopediaru/baza7/3626748201704.files/image016.jpg" alt="Площадь равна:корень из 3 умножить на сторону в квадрате, деленное на 4"> 
     
     
     </body>

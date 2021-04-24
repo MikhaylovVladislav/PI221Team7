@@ -25,8 +25,7 @@
     <p style="color:#FFFF00">Формула, которая используются при вычислении площади:</p>
     
     
-    
-	<img src="https://www.ok-t.ru/studopediaru/baza7/3626748201704.files/image016.jpg" alt="Площадь равна:корень из 3 умножить на сторону в квадрате, деленное на 4"> 
+    <img src="https://www.ok-t.ru/studopediaru/baza7/3626748201704.files/image016.jpg" alt="Площадь равна:корень из 3 умножить на сторону в квадрате, деленное на 4"> 
     
     
     </body>

@@ -89,12 +89,12 @@
 	var columns = ["ID", "Name", "Email", "City", "Country",
     "Expenses"]; 
 	
-	var rows = [ [1, "Chaya Fisher",
-    "Braulio42@hotmail.com", "North Samanta chester", "New Caledonia",
-    "324.84"], [2, "Ken Graham","Madelyn_Keeling25@gmail.com", "Newell mouth",
-    "Cambodia", "653.72"], [3, "Braulio Wilkinson",
-    "Tressie.Monahan@yahoo.com", "Anguila",
-    "531.0"]];
+	var rows = [ [1, "Mikhaylov",
+    "vladik@hotmail.com", "Ufa", "Chuvash-Kubovo",
+    "17"], [2, "BBAA","MBBB@gmail.com", "uFA",
+    "FJAS", "653.72"], [3, "123321ASA",
+    "RTRn@yahoo.com", "QWERT",
+    "2"]];
 	
 	var pdf = new jsPDF('p', 'pt');
 pdf.autoTable(columns, rows);

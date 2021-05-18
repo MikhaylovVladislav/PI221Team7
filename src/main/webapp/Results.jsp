@@ -19,7 +19,7 @@
 
 
 <body>
-<h1 style="color:#FFA500">Полученная площадь</h1>
+<h1 style="color:#FFA500">Полученная площадььььь</h1>
 <h2 style="color:#FFA500">Ваши введеные данные:</h2>
 <p style="color:#FFA500"><strong>Сторона равна:</strong> ${first_result}</p>
 <p style="color:#FFA500"><strong>Результат:</strong> ${result}</p>

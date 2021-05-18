@@ -4,6 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<link rel="stylesheet" href="css/style.css">
 <title>Калькулятор - нахождение площади равностороннего треугольника!</title>
 
 </head>
@@ -27,10 +28,7 @@
     
     <p style="color:#FFFF00">Формула, которая используются при вычислении площади:</p>
     
-    <script src="three.min.js"></script>
-    <script src="vanta.waves.min.js"></script>
-     
-    <script src="app.js"></script>
+    
     
     
     

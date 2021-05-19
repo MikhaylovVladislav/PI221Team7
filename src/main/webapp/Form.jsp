@@ -26,7 +26,7 @@
     <p align="right" style="color:#FF4500"><b>3)Bogolubov Max<b></p>
     <p align="right" style="color:#FF4500"><b>4)Belousov Artem<b></p>
     
-    <p style="color:#FFFF00">Формула, которая используются при вычислении площади:</p>
+    <p style="color:#FFFF00">Формула, которая используются при вычислении площади!!!!!!!!!:</p>
     
     
     

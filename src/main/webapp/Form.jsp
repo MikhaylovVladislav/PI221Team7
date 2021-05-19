@@ -28,6 +28,8 @@
     
     <p style="color:#FFFF00">Формула, которая используются при вычислении площади!!!!!!!!!:</p>
     
+    <audio src="https://d1.cdnpush.com/mp3/f25c8ff9c25995bbe8ea6f81abb46240.mp3" controls muted loop></audio>
+    
     
     
     

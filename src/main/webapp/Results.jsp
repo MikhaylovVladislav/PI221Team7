@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<link rel="stylesheet" href="style12.css">
+<link rel="stylesheet" href="css/style12.css">
 <title>Результат</title>
 </head>
 

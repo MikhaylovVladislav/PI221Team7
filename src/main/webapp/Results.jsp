@@ -27,7 +27,7 @@
 <p style="color:#FFA500"><strong>Результат (в миллиметрах):</strong> ${result}</p>
 
 <div class="container"><div class="pulse">
-	<p>hell</p>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BNICCGrHryBo5xZT8h2x57XygEeQAZrksRD0b5YLOC_BvJ9W&usqp=CAU">
 	<form action="${pageContext.request.contextPath}/Form.jsp">
     <input type="submit" name="sign" value="Назад">
     </form>

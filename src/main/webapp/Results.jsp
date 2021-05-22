@@ -25,13 +25,13 @@
 <p style="color:#FFA500"><strong>Сторона (в миллиметрах)равна:</strong> ${first_result}</p>
 <p style="color:#FFA500"><strong>Результат (в миллиметрах):</strong> ${result}</p>
 
-<div class="container"><div class="pulse">
+
 	<form action="${pageContext.request.contextPath}/Form.jsp">
     <input type="submit" name="sign" value="Назад">
     </form>
     
-    </div>
-    </div>
+   
+    
 
 </body>
 </html>
